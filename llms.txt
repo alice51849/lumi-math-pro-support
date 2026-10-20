@@ -1,0 +1,17 @@
+# Lumi Math Pro: Kids Numbers support
+
+> Official support, help and privacy pages for Lumi Math Pro: Kids Numbers, an iOS app by Lumi Studio.
+
+- App Store: https://apps.apple.com/app/id6776958488
+- Platform: iOS
+- App Store category: Education
+- Developer: Lumi Studio
+
+## Pages
+
+- [Home](https://open.cait518.cc/lumi-math-pro-support/)
+- [Help, FAQ and troubleshooting](https://open.cait518.cc/lumi-math-pro-support/help.html)
+- [Support and contact](https://open.cait518.cc/lumi-math-pro-support/support.html)
+- [Privacy policy](https://open.cait518.cc/lumi-math-pro-support/privacy.html)
+
+<!-- ls-llms: managed by support_network/gen_support_crosspromo.py -->
