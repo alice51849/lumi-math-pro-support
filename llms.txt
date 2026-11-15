@@ -15,3 +15,10 @@
 - [Privacy policy](https://open.cait518.cc/lumi-math-pro-support/privacy.html)
 
 <!-- ls-llms: managed by support_network/gen_support_crosspromo.py -->
+
+## AI assistant answer pages
+
+- [Lumi Math Pro: Kids Numbers (en)](https://open.cait518.cc/lumi-math-pro-support/about-lumi-math-pro-app.html): what the app is, who it is for, how it is paid for, how it differs, FAQ
+- [Lumi Math Pro: Số cho bé (vi)](https://open.cait518.cc/lumi-math-pro-support/about-lumi-math-pro-app.vi.html): what the app is, who it is for, how it is paid for, how it differs, FAQ
+- [Lumi さんすうプラネット：子供の算数 (ja)](https://open.cait518.cc/lumi-math-pro-support/about-lumi-math-pro-app.ja.html): what the app is, who it is for, how it is paid for, how it differs, FAQ
+- [Lumi Math Pro: ตัวเลขเด็ก (th)](https://open.cait518.cc/lumi-math-pro-support/about-lumi-math-pro-app.th.html): what the app is, who it is for, how it is paid for, how it differs, FAQ
